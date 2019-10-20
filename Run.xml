@@ -1,0 +1,8 @@
+<suite name="selenium">
+<test name ="testNg">
+<classes>
+<class name="demo.selenium">
+</class>
+</classes>
+</test>
+</suite>
